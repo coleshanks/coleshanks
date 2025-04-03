@@ -1,7 +1,4 @@
 ### Hello 🚀
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleshanks&show_icons=true&theme=transparent)-->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&hide=vhdl&theme=transparent)
 
 <!--
