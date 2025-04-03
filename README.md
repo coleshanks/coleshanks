@@ -1,11 +1,5 @@
 ### Hello 🚀
 
-### 💻 Recent Coding Activity
-
-<!--LANG_STATS-->
-404: Not Found_loading..._
-<!--END_LANG_STATS-->
-
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
