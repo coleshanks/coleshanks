@@ -3,7 +3,7 @@
 ### 💻 Recent Coding Activity
 
 <!--LANG_STATS-->
-_loading..._
+404: Not Found_loading..._
 <!--END_LANG_STATS-->
 
 <!--
