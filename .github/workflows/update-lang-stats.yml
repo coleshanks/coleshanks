@@ -2,11 +2,11 @@ name: Update Lang Stats in README
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # runs daily at 01:00 UTC
-  workflow_dispatch:       # allows manual runs
+    - cron: '0 1 * * *'  # daily at 1:00 UTC
+  workflow_dispatch:
 
 permissions:
-  contents: write          # 🔥 allows push to repo (needed for README updates)
+  contents: write  # Needed to commit to README.md
 
 jobs:
   update-readme:
@@ -16,16 +16,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Fetch Gist content
+      - name: Fetch raw content from Gist
         run: |
-          curl -s https://gist.githubusercontent.com/coleshanks/95d9a198e5d215f9f860a007cf80042c/raw/lang-box.md > langbox.txt
+          curl -s https://gist.githubusercontent.com/coleshanks/ce3704990946bd3e09d8aedeb6332a97/raw/lang-box.md > langbox.txt
 
-      - name: Replace content in README
+      - name: Replace stats in README
         run: |
           awk '/<!--LANG_STATS-->/ { print; system("cat langbox.txt"); next } /<!--END_LANG_STATS-->/ { found=1 } 1' README.md > temp.md
           mv temp.md README.md
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
