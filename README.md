@@ -1,9 +1,9 @@
 ### Hello 🚀
 
 ### 💻 Recent Coding Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coleshanks/coleshanks/main/metrics.svg" width="420" alt="GitHub Metrics" />
-</p>
+
+📊 View my live GitHub language stats:  
+👉 [https://gist.github.com/coleshanks/95d9a198e5d215f9f860a007cf80042c]
 
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
