@@ -1,0 +1,31 @@
+name: Update Lang Stats in README
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # runs every day at 1:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Gist content
+        run: |
+          curl -s https://gist.githubusercontent.com/coleshanks/95d9a198e5d215f9f860a007cf80042c/raw/lang-box.md > langbox.txt
+
+      - name: Replace content in README
+        run: |
+          awk '/<!--LANG_STATS-->/ { print; system("cat langbox.txt"); next } /<!--END_LANG_STATS-->/ { found=1 } 1' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "⬆️ Update language stats [skip ci]" || echo "No changes to commit"
+          git push
