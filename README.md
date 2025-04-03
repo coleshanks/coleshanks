@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleshanks&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&hide=vhdl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&hide=vhdl&theme=transparent)
 
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
