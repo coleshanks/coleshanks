@@ -1,5 +1,10 @@
 ### Hello 🚀
 
+### 💻 Recent Coding Activity
+<p align="center">
+  <img src="https://gist.githubusercontent.com/coleshanks/95d9a198e5d215f9f860a007cf80042c/raw/lang-box.md" width="420"/>
+</p>
+
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
