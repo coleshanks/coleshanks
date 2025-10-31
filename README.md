@@ -1,6 +1,8 @@
 ### Hello 🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&hide=vhdl&theme=transparent)
 
+[![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleshanks)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
