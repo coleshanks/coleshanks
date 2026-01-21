@@ -2,7 +2,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=transparent&hide=vhdl,HTML,CSS)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&show_icons=true&theme=tokyonight)
 
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
