@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=transparent&hide=vhdl,HTML,CSS)
 -->
 
-[![Cole's GitHub stats](https://github-stats-extended.vercel.app/api?username=coleshanks)](https://github.com/stats-organization/github-stats-extended)
+[![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks)](https://github.com/stats-organization/github-stats-extended)
 
 
 
