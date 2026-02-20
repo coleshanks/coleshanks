@@ -3,9 +3,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=transparent&hide=vhdl,HTML,CSS)
 -->
 
-(exlcuding html from my wesbite)
-
 [![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=tokyonight&hide=vhdl,HTML,CSS)](https://github.com/stats-organization/github-stats-extended)
+(exlcuding html from my wesbite)
 
 <!--
 **coleshanks/coleshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
