@@ -5,6 +5,8 @@
 
 [![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=tokyonight&hide=vhdl,HTML,CSS)](https://github.com/stats-organization/github-stats-extended)
 
+[![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
 
 
 
