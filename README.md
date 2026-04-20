@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=transparent&hide=vhdl,HTML,CSS)
 -->
 
-[![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=tokyonight&hide=Verilog,vhdl,HTML,CSS)](https://github.com/stats-organization/github-stats-extended)
+[![Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=coleshanks&layout=compact&theme=tokyonight&hide=Verilog,vhdl,HTML,CSS,MATLAB)](https://github.com/stats-organization/github-stats-extended)
 
 (exlcuding html from my wesbite)
 
